@@ -11,6 +11,13 @@ After having some left-over probability for lower-order N-gram, we distribute it
 
 The Katz's approach makes sense.
 
+## Test Environment:
+
+R version 3.2.4 (2016-03-10)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 8.1 x64 (build 9600)
+
+
 ## Reference:
 1. [Katz's back-off model](https://en.wikipedia.org/wiki/Katz%27s_back-off_model)
 
