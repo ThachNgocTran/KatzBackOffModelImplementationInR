@@ -13,9 +13,9 @@ The Katz's approach makes sense.
 
 ## Test Environment:
 
-R version 3.2.4 (2016-03-10)
-Platform: x86_64-w64-mingw32/x64 (64-bit)
-Running under: Windows 8.1 x64 (build 9600)
+* R version 3.2.4 (2016-03-10)
+* Platform: x86_64-w64-mingw32/x64 (64-bit)
+* Running under: Windows 8.1 x64 (build 9600)
 
 
 ## Reference:
